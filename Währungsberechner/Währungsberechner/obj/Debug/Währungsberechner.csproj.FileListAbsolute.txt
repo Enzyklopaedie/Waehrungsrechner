@@ -1,0 +1,11 @@
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Währungsberechner\Währungsberechner\bin\Debug\Währungsberechner.exe.config
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Währungsberechner\Währungsberechner\bin\Debug\Währungsberechner.exe
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Währungsberechner\Währungsberechner\bin\Debug\Währungsberechner.pdb
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Währungsberechner\Währungsberechner\obj\Debug\Währungsberechner.csproj.AssemblyReference.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Währungsberechner\Währungsberechner\obj\Debug\Währungsberechner.csproj.SuggestedBindingRedirects.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Währungsberechner\Währungsberechner\obj\Debug\Währungsberechner.Form1.resources
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Währungsberechner\Währungsberechner\obj\Debug\Währungsberechner.Properties.Resources.resources
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Währungsberechner\Währungsberechner\obj\Debug\Währungsberechner.csproj.GenerateResource.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Währungsberechner\Währungsberechner\obj\Debug\Währungsberechner.csproj.CoreCompileInputs.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Währungsberechner\Währungsberechner\obj\Debug\Währungsberechner.exe
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Währungsberechner\Währungsberechner\obj\Debug\Währungsberechner.pdb
